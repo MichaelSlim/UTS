@@ -1,0 +1,10 @@
+D:\C#\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe.config
+D:\C#\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe
+D:\C#\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+D:\C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojAssemblyReference.cache
+D:\C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+D:\C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+D:\C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.cache
+D:\C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.CoreCompileInputs.cache
+D:\C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.exe
+D:\C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb
