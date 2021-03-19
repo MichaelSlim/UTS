@@ -1,4 +1,4 @@
-Aplikasi yang saya buat merupakan aplikasi chatting yang menggunakan IP dan Port untuk saling berkomunikasi.
+Aplikasi yang saya buat merupakan aplikasi chatting antara dua client.
 Bahasa yang saya gunakan merupakan bahasa c#.
 Cara menjalankan aplikasi tersebut
 1. Download file terlebih dahulu.
