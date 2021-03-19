@@ -7,7 +7,7 @@ Cara menjalankan aplikasi tersebut
 
 Untuk melihat hasil dari aplikasi tersebut adalah
 1. Jalankan dua kali program tersebut.
-2. Masukkan IP Client-1 yang berbeda dengan IP Client-2 (Misalnya IP Client-1 = 12 $ IP Client-2 = 21).
+2. Masukkan IP Client-1 yang berbeda dengan IP Client-2 (Misalnya IP Client-1 = 12 & IP Client-2 = 21).
 3. Tekan button Connect.
 4. Pada textbox bagian paling bawah tulislah kata-kata yang ingin dikirim.
 5. Tekan button Send.
