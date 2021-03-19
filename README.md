@@ -11,4 +11,4 @@ Untuk melihat hasil dari aplikasi tersebut adalah
 3. Tekan button Connect.
 4. Pada textbox bagian paling bawah tulislah kata-kata yang ingin dikirim.
 5. Tekan button Send.
-6. Maka akan terlihat bahwa kedua Client tersebut sedang berkomunikasi dengan yang lain.
+6. Maka akan terlihat bahwa kedua Client tersebut sedang berkomunikasi satu dengan yang lain.
